@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react-todo-app/static/js/main.deec4bcf.js",
+    "static/js/787.4d2300fc.chunk.js": "/react-todo-app/static/js/787.4d2300fc.chunk.js",
+    "index.html": "/react-todo-app/index.html",
+    "main.deec4bcf.js.map": "/react-todo-app/static/js/main.deec4bcf.js.map",
+    "787.4d2300fc.chunk.js.map": "/react-todo-app/static/js/787.4d2300fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.deec4bcf.js"
+  ]
+}
